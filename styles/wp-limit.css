@@ -1,0 +1,61 @@
+.wrap-wp-limit{
+  background-color: #fff;
+  width: 90%;
+  margin: 0 auto;
+  border-radius: 10px;
+padding-bottom:30px;
+
+}
+
+.wrap-wp-limit h2.title {
+    padding: 15px;
+    background-color: #0073aa;
+    color: #fff;
+    border-radius: 5px 5px 0px 0px;
+    font-size: 20px;
+}
+
+.wrap-wp-limit p.description {
+    padding: 10px;
+    font-size: 18px;
+    color: #65bc7b;
+}
+
+.wp-limit-form{
+padding: 0% 0 0% 5%;
+}
+.labels input{
+  width: 25%;
+    padding: 5px;
+}
+.labels b{
+  background-color: #0073aa;
+    padding: 10px;
+    color: #fff;
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.wp-limit-submit{
+  background: #0073aa;
+color: #fff;
+padding: 10px 20px 10px 20px;
+border: 0;
+font-size: 15px;
+margin: 0 auto;
+}
+
+.notices{
+  text-align: center;
+    background-color: #65bc7b;
+    width: 32%;
+    color: #fff;
+    padding: 10px;
+    border-bottom:1px solid #fff;
+}
+.main-notice{
+margin-left: 5%;
+margin-top: 3%;
+}
